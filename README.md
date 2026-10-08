@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MovieHub App Banner](public/logo.png)
+![MovieHub App Banner](/logo.png)
 
 **A high-performance, dedicated desktop cinema application for ultra-fast Circle FTP streaming.**  
 Enjoy high-bitrate movies and TV series at unmetered ISP speeds with full multi-track audio switching, embedded subtitles, and an award-winning OTT interface.
